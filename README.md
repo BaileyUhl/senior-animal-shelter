@@ -1,4 +1,4 @@
-# animal-shelter
+# KADDS Animal Shelter
 Welcome to our heartwarming online sanctuary – a unique animal shelter designed with a dual mission: to provide loving homes for senior animals and to offer companionship and support to senior citizens. Our website serves as a haven where compassion and care intersect, fostering a community that celebrates the beauty of every life stage.
 
 **Adoption Center:**
